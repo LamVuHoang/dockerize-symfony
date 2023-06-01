@@ -38,7 +38,7 @@ docker compose run composer --version
 ```shell
 docker compose run npm --version
 ```
-**To run artisan**
+**To run bin/console**
 ```shell
-docker compose run artisan --version
+docker compose run console --about
 ```
